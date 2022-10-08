@@ -38,19 +38,19 @@ function App() {
           <About/>
         </Route>
 
-        <Route path="/1">
+        <Route path="/perro1">
           <Info1/>
         </Route>
         
-        <Route path="/2">
+        <Route path="/perro2">
           <Info2/>
         </Route>
         
-        <Route path="/3">
+        <Route path="/perro3">
           <Info3/>
         </Route>
         
-        <Route path="/4">
+        <Route path="/perro4">
           <Info4/>
         </Route>
     </div>
