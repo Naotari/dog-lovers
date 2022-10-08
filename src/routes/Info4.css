@@ -1,0 +1,11 @@
+.Info4_Main {
+    background-color: #d6c7a6;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    height: 92%;
+
+    text-shadow: black 0.1em 0.1em 0.2em /*Sombra para el texto*/
+}
