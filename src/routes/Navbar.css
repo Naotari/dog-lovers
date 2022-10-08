@@ -1,17 +1,17 @@
-.navBarMain {
-    background-color: rgb(209, 209, 209);
+.Navbar_Main {
+    background-color: #efe7dd;
     display: flex;
     align-items: center;
     justify-content: space-around;
     height: 8%;
 }
 
-.Title {
+.Navbar_Title {
     text-decoration: none;
-    color: black;
+    color: #5c3420;
 }
 
-.Link {
+.Navbar_Link {
     text-decoration: none;
-    color: black;
+    color: #5c3420;
 }

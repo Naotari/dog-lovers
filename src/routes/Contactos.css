@@ -1,7 +1,18 @@
 .ContactosMain {
-    background-color: #9a8472;
+    background-color: #d6c7a6;
     display: flex;
+    justify-content: space-around;
     align-items: center;
-    flex-direction: column;
+
     height: 92%;
+
+    text-shadow: black 0.1em 0.1em 0.2em /*Sombra para el texto*/
+}
+
+.Contactos_BoxRef {
+    height:400px;
+    width:800px;
+    border: none;
+    font:16px/26px;
+    overflow:auto;
 }

@@ -4,8 +4,8 @@ import Contactos from "./routes/Contactos"
 import Home from "./routes/Home"
 import Navbar from "./routes/Navbar"
 import About from "./routes/About"
-import Colecciones from "./routes/Colecciones"
-import Servicios from "./routes/Servicios"
+import Productos from "./routes/Productos"
+import CrearQr from "./routes/CrearQr"
 
 function App() {
   return (
@@ -22,12 +22,12 @@ function App() {
           <Contactos/>
         </Route>
 
-        <Route path="/colecciones">
-          <Colecciones/>
+        <Route path="/productos">
+          <Productos/>
         </Route>
         
-        <Route path="/servicios">
-          <Servicios/>
+        <Route path="/crearqr">
+          <CrearQr/>
         </Route>
 
         <Route path="/about">

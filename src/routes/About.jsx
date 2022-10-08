@@ -5,6 +5,7 @@ const About = () => {
     return(
         <div className="AboutMain">
             <h1>Sobre Nosotros</h1>
+            <p>pendiente</p>
         </div>
     )
 }

@@ -1,4 +1,4 @@
-.AboutMain {
+.CrearQrMain {
     background-color: #d6c7a6;
     display: flex;
     align-items: center;
@@ -7,3 +7,4 @@
 
     text-shadow: black 0.1em 0.1em 0.2em /*Sombra para el texto*/
 }
+
