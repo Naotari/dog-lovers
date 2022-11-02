@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="Navbar_Main">
             <Link to="/crearqr" className="Navbar_Link">CREAR QR</Link>
             <Link to="/productos" className="Navbar_Link">PRODUCTOS</Link>
-            <Link to="/" className="Navbar_Title"><h3>DOG LOVERS</h3></Link>
+            <Link to="/" className="Navbar_Title"><h3>DOG SECURITY</h3></Link>
             <Link to="/about" className="Navbar_Link">SOBRE NOSOTROS</Link>
             <Link to="/contactos" className="Navbar_Link">CONTACTOS</Link>
         </div>
