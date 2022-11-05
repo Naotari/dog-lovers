@@ -9,3 +9,8 @@
 
     text-shadow: black 0.1em 0.1em 0.2em /*Sombra para el texto*/
 }
+
+.Info2_Img {
+    border: 5px solid #5c3420;
+    border-radius: 50px;
+}
